@@ -104,4 +104,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-Special thanks to all contributors and users of this library. 
+Special thanks to all contributors and users of this library for more content
