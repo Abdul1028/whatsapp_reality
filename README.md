@@ -1,6 +1,6 @@
 # WhatsApp Reality
 
-A comprehensive Python library for analyzing WhatsApp chat exports. This library provides tools for preprocessing WhatsApp chat data and performing various analyses including sentiment analysis, user activity patterns, conversation patterns,and much more.
+A comprehensive Python library for analyzing WhatsApp chat exports. This library provides tools for preprocessing WhatsApp chat data and performing various analyses including sentiment analysis, user activity patterns, conversation patterns,and more.
 
 ## Installation
 
