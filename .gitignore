@@ -37,3 +37,6 @@ ENV/
 .coverage
 htmlcov/
 .pytest_cache/ 
+
+
+.pypirc
