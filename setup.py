@@ -10,7 +10,7 @@ with open("requirements.txt", encoding="utf-8") as f:
 
 setup(
     name="whatsapp-reality",
-    version="0.2.0",
+    version="0.2.1",
     author="Abdul",
     author_email="rasoolas2003@gmail.com",
     description="A comprehensive WhatsApp chat analysis library",
