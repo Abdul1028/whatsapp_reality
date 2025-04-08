@@ -38,3 +38,5 @@ ENV/
 htmlcov/
 .pytest_cache/ 
 .pypirc
+
+.pypirc
