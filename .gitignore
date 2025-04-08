@@ -40,3 +40,4 @@ htmlcov/
 .pypirc
 
 .pypirc
+.gitignore
